@@ -1,0 +1,22 @@
+{
+  "wheel_id": 57,
+  "slug": "akr-vc-102",
+  "project": "kitchen-renovations-adelaide-costs",
+  "parent_t1_ref": "akr-vc-001",
+  "node_role": "feeder",
+  "money_target": "adelaidekitchenreno.com.au",
+  "primary_kw": "kitchen renovations adelaide costs",
+  "intended_url": "https://kitchen-renovations-adelaide-costs.surge.sh/",
+  "links": [
+    {
+      "target_url": "https://kitchen-renovations-adelaide.pages.dev/",
+      "anchor": "kitchen renovations adelaide",
+      "rel": "follow"
+    },
+    {
+      "target_url": "https://kitchen-renovations-adelaide.pages.dev/",
+      "anchor": "kitchen renovations adelaide",
+      "rel": "follow"
+    }
+  ]
+}
