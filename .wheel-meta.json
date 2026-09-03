@@ -6,7 +6,7 @@
   "node_role": "feeder",
   "money_target": "adelaidekitchenreno.com.au",
   "primary_kw": "kitchen renovations adelaide costs",
-  "intended_url": "https://kitchen-renovations-adelaide-costs.surge.sh/",
+  "intended_url": "https://sitesau.github.io/akr-vc-102/",
   "links": [
     {
       "target_url": "https://kitchen-renovations-adelaide.pages.dev/",
@@ -18,5 +18,6 @@
       "anchor": "kitchen renovations adelaide",
       "rel": "follow"
     }
-  ]
+  ],
+  "structure": "wheel"
 }

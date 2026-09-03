@@ -12,4 +12,4 @@ Disallow: /
 User-agent: DotBot
 Disallow: /
 
-Sitemap: https://kitchen-renovations-adelaide-costs.surge.sh/sitemap.xml
+Sitemap: https://sitesau.github.io/akr-vc-102/sitemap.xml
