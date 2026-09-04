@@ -9,12 +9,12 @@
   "intended_url": "https://sitesau.github.io/akr-vc-102/",
   "links": [
     {
-      "target_url": "https://kitchen-renovations-adelaide.pages.dev/",
+      "target_url": "https://adelaide-kitchen-reno-guide.vercel.app",
       "anchor": "kitchen renovations adelaide",
       "rel": "follow"
     },
     {
-      "target_url": "https://kitchen-renovations-adelaide.pages.dev/",
+      "target_url": "https://adelaide-kitchen-reno-guide.vercel.app",
       "anchor": "kitchen renovations adelaide",
       "rel": "follow"
     }
